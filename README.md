@@ -2,4 +2,4 @@
 
 Translator designed to be used only on mobile simulators (Android).
 
-<img align="center" src="./translator.png" width="300px" />
+<img align="center" src="./mlkit.png" width="300px" />
